@@ -1,0 +1,10 @@
+.todo-item{
+    background-color: rgb(113, 191, 228);
+    max-width: 300px;
+    border-radius: 25px;
+    padding: 5px;
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+    list-style: none;
+}

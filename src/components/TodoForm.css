@@ -1,0 +1,16 @@
+.todo-form{
+    padding: 10px;
+}
+
+.todo-form-input{
+    margin-bottom: 20px;
+}
+
+input[type=text] {
+    width: 90%;
+    max-width: 500px;
+    display: inline-block;
+    padding: 12px 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
